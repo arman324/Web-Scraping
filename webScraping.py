@@ -87,7 +87,6 @@ def leagueFunc():
     for league in leagueName:
          leagueTitle.append(league.text)
 
-######print("Which league do you want? ")
 matchGoal_ = []
 def goalFunc():
     for goal in matchGoal:
@@ -131,5 +130,4 @@ for j in range(0,totalMatch):
         continue
 
 print('\n\n\n\n\n\n\n\n')
-    #time.sleep(60)
-    #os.system('clear')  # For Linux/OS X
+    
