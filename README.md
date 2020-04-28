@@ -15,6 +15,7 @@ You just need to run this command `` python3 runWebScraping.py`` in your termina
 the output of this code is something like this =>
 
 <img width="1200" alt="Screen Shot 2020-03-01 at 6 46 04 PM" src="https://user-images.githubusercontent.com/35253872/80548291-dac80a80-89cf-11ea-9d35-61d9ba74f295.png">
+
 ## Support
 Reach out to me at riasiarman@yahoo.com.
 
