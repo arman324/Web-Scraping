@@ -10,7 +10,7 @@ So after running this code, you get the latest live football scores, results & f
 * ``import requests``
 * ``from bs4 import BeautifulSoup``
 ## How to Run
-You just need to run this command `` python3 runWebScraping.py`` in your terminal, then the program is updated __every 1 minute__ to give you the latest scores.
+You just need to run this command `` python3 runWebScraping.py`` in your terminal, then the program is updated '__every 1 minute__' to give you the latest scores.
 ## Output
 the output of this code is something like this =>
 
