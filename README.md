@@ -7,6 +7,7 @@ In this project, I want to extract data from the [Live Scores](https://www.goal.
 So after running this code, you get the latest live football scores, results & fixtures from across the world, including Premier League, La Liga, Serie A and ... , then tell you what the important matches are.
 ## Requirements
 * Python 3.7.4
+* ``pip install beautifulsoup4``
 * ``import requests``
 * ``from bs4 import BeautifulSoup``
 ## How to Run
